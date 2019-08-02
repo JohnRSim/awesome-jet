@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="400" src="./logo.svg" alt="logo of JET-awesome repository">
+  <img width="400" src="./resources/logo.png" alt="logo of JET-awesome repository">
   <br>
   <br>
 </p>
