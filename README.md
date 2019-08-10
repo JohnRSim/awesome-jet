@@ -21,7 +21,7 @@
   - [Examples](#examples)
   - [Books](#books)
   - [Blog Posts](#blog-posts)
-- [Projects Using Vue.js](#projects-using-vuejs)
+- [Projects Using OracleJET](#projects-using-oracleJET)
   - [Open Source](#open-source)
   - [Commercial Products](#commercial-products)
   - [Apps/Websites](#appswebsites)
@@ -30,6 +30,7 @@
   - [A11y](#a11y)
 - [Components & Libraries](#components--libraries)
   - [UI Components](#ui-components)
+
 
 
 
@@ -68,7 +69,10 @@
 
 ### Blog Posts
 
+### UI Components
 
+ - [JET-Captcha]https://github.com/JohnRSim/jet-captcha) - Alternative Captcha solution that enables support for automated bot detection via gamified UI. 
+ 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
