@@ -71,7 +71,7 @@
 
 ### UI Components
 
- - [JET-Captcha]https://github.com/JohnRSim/jet-captcha) - Alternative Captcha solution that enables support for automated bot detection via gamified UI. 
+ - [JET-Captcha](https://github.com/JohnRSim/jet-captcha) - Alternative Captcha solution that enables support for automated bot detection via gamified UI. By [@JRSim_UIX](https://twitter.com/JRSim_UIX).
  
 ## Contribute
 
