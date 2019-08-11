@@ -58,6 +58,9 @@
 ### Youtube Channels
 
  - [Oracle JET](https://www.youtube.com/channel/UCcPYy1QhTNyR6fPAGLEsSTw/videos)
+ - [Oracle Developers](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g/videos)
+ - [Oracle Learning Library](https://www.youtube.com/user/OracleLearning/videos)
+ 
  
 #### Intro
 
@@ -77,6 +80,10 @@
  - [Source Structure of Oracle JET Applications | Geertjan Wielenga](https://www.youtube.com/watch?v=-XxRjUbn_54)
  - [It's Easy to Set Up a Front-End JavaScript Application with Oracle JET | Geertjan Wielenga](https://www.youtube.com/watch?v=lXCg0qBLH34)
  
+#### MOOC
+
+- [Massive Open Online Course](https://www.youtube.com/watch?v=CdJ23oroPcw&list=PLKCk3OyNwIztCYiFvqx2UU8Sg8YfK3Om4) - 26 Mar 2018
+
 #### Virtual Meetup
  
 - [April 2019](https://www.youtube.com/watch?v=mvnfizJA6tc)
@@ -84,7 +91,7 @@
  
 #### Customer
 
-- [https://www.youtube.com/watch?v=yJ_Tsi_rVPo](Capgemini's UK Customer Benefits With Oracle JET)
+- [Capgemini's UK Customer Benefits With Oracle JET](https://www.youtube.com/watch?v=yJ_Tsi_rVPo)
 
 ### Official Examples
 
