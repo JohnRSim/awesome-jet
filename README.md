@@ -72,6 +72,11 @@
  - [Source Structure of Oracle JET Applications | Geertjan Wielenga](https://www.youtube.com/watch?v=-XxRjUbn_54)
  - [It's Easy to Set Up a Front-End JavaScript Application with Oracle JET | Geertjan Wielenga](https://www.youtube.com/watch?v=lXCg0qBLH34)
  
+ #### Virtual Meetup
+ 
+- [April 2019](https://www.youtube.com/watch?v=mvnfizJA6tc)
+- [August 2018](https://www.youtube.com/watch?v=VCNRosYEa_s)
+ 
 ### Official Examples
 
 ### Tutorials
