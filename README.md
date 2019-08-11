@@ -97,6 +97,11 @@
 
 ### Tutorials
 
+- [Soar Higher with Oracle JET](https://www.oracle.com/goto/jet)
+- [Oracle JET Web Components](https://www.oracle.com/goto/jetwebcomponents)
+- [Developing a Web Application with Oracle JET](https://docs.oracle.com/en/middleware/jet/6.1/webapplications.html)
+- [Introduction to developing with Oracle JET](https://apexapps.oracle.com/pls/apex/f?p=44785:50:101853936604872:::50:P50_COURSE_ID,P50_EVENT_ID:260,5940)
+
 ### Examples
 
 ### Books
