@@ -101,6 +101,9 @@
 
 ### Books
 
+- [Oracle JET 7.1.0](https://docs.oracle.com/en/middleware/developer-tools/jet/7.1/books.html)
+- [Practical Oracle JET: Developing Enterprise Applications in JavaScript](https://www.amazon.co.uk/Practical-Oracle-JET-Developing-Applications/dp/1484243455/ref=sr_1_1?keywords=oracle+jet&qid=1565510591&s=gateway&sr=8-1)
+
 ### Blog Posts
 
 ### UI Components
