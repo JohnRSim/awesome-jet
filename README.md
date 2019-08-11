@@ -50,6 +50,8 @@
 
 ### External Resources
 
+- [ESLint config](https://github.com/oracle/eslint-config-oraclejet)
+
 ### Community
 - [Official Forum](https://community.oracle.com/community/development_tools/oracle-jet)
 
@@ -89,7 +91,7 @@
 #### Virtual Meetup
  
 - [April 2019](https://www.youtube.com/watch?v=mvnfizJA6tc)
-- [August 2018](https://www.youtube.com/watch?v=VCNRosYEa_s)
+- [October 2018](https://www.youtube.com/watch?v=VCNRosYEa_s)
  
 #### Customer
 
@@ -107,6 +109,10 @@
 - [Workshop: Web Component Development with Oracle JET](https://github.com/geertjanw/ojet-training)
 - [OracleJETWorkshop2019](https://github.com/peppertech/OracleJETWorkshop2019)
 - [Oracle JET Hands-On-Lab 2017](https://github.com/peppertech/HOL2017)
+- [Develop a Hybrid Mobile Application in Oracle JavaScript Extension Toolkit (Oracle JET) for iOS](https://apexapps.oracle.com/pls/apex/f?p=44785:50:15331411769097::NO:RP,50:P50_COURSE_ID,P50_EVENT_ID,P50_PREV_PAGE:345,6063,2)
+- [Develop a Hybrid Mobile Application in Oracle JavaScript Extension Toolkit (Oracle JET) for Windows](https://apexapps.oracle.com/pls/apex/f?p=44785:50:15331411769097::NO:RP,50:P50_COURSE_ID,P50_EVENT_ID,P50_PREV_PAGE:359,6090,2)
+- [Develop a Hybrid Mobile Application in Oracle JavaScript Extension Toolkit (Oracle JET) for Android](https://apexapps.oracle.com/pls/apex/f?p=44785:50:15331411769097::NO:RP,50:P50_COURSE_ID,P50_EVENT_ID,P50_PREV_PAGE:367,6108,2)
+- [Develop a Reusable Web Component in Oracle JavaScript Extension Toolkit (Oracle JET)](https://apexapps.oracle.com/pls/apex/f?p=44785:50:15331411769097::NO:RP,50:P50_COURSE_ID,P50_EVENT_ID,P50_PREV_PAGE:348,6087,2)
 
 ### Examples
 
