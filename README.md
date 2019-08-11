@@ -59,6 +59,19 @@
 
  - [Oracle JET](https://www.youtube.com/channel/UCcPYy1QhTNyR6fPAGLEsSTw/videos)
  
+#### 2MIN Tech Tip
+ - [Adding New Modules to Oracle JET Applications | Geertjan Weilenga](https://www.youtube.com/watch?v=A770TT3-ASo)
+ - [Oracle JET: Working with Other People's Buggy Code | John Brock](https://www.youtube.com/watch?v=5aKwyyFQkUA)
+ - [Oracle JET: Offline Search for the Offline Persistence Toolkit](https://www.youtube.com/watch?v=TEmPMsCIs6s)
+ - [Using the Offline Persistence Toolkit | Geertjan Wielenga](https://www.youtube.com/watch?v=phhG2z9gMt0)
+ - [Common Mistakes When Using the Oracle JET Cookbook | Geertjan Wielenga](https://www.youtube.com/watch?v=zfi7xERFsrA)
+ - [Understanding the Binding Layer in Oracle JET Applications | Geertjan Wielenga](https://www.youtube.com/watch?v=RUxpz4bXGIw)
+ - [Common Mistakes When Using the Oracle JET Cookbook | Geertjan Wielenga](https://www.youtube.com/watch?v=zfi7xERFsrA)
+ - [Graphs, Charts, and More in the JET Cookbook | Geertjan Wielenga](https://www.youtube.com/watch?v=YZ0N03j52z0)
+ - [The Load Order of Artifacts in an Oracle JET Application | Geertjan Wielenga](https://www.youtube.com/watch?v=cjejNksY3wE)
+ - [Source Structure of Oracle JET Applications | Geertjan Wielenga](https://www.youtube.com/watch?v=-XxRjUbn_54)
+ - [It's Easy to Set Up a Front-End JavaScript Application with Oracle JET | Geertjan Wielenga](https://www.youtube.com/watch?v=lXCg0qBLH34)
+ 
 ### Official Examples
 
 ### Tutorials
