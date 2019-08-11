@@ -101,6 +101,10 @@
 - [Oracle JET Web Components](https://www.oracle.com/goto/jetwebcomponents)
 - [Developing a Web Application with Oracle JET](https://docs.oracle.com/en/middleware/jet/6.1/webapplications.html)
 - [Introduction to developing with Oracle JET](https://apexapps.oracle.com/pls/apex/f?p=44785:50:101853936604872:::50:P50_COURSE_ID,P50_EVENT_ID:260,5940)
+- [Oracle JET 4.x MOOC](https://github.com/geertjanw/OJETCourse4.x)
+- [Workshop: Web Component Development with Oracle JET](https://github.com/geertjanw/ojet-training)
+- [OracleJETWorkshop2019](https://github.com/peppertech/OracleJETWorkshop2019)
+- [Oracle JET Hands-On-Lab 2017](https://github.com/peppertech/HOL2017)
 
 ### Examples
 
