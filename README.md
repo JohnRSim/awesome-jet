@@ -59,6 +59,11 @@
 
  - [Oracle JET](https://www.youtube.com/channel/UCcPYy1QhTNyR6fPAGLEsSTw/videos)
  
+#### Intro
+
+ - [Getting Started with Oracle JET](https://www.youtube.com/watch?v=976h4WsBbuE)
+ - [Angular, Vue, React, JET; JavaScript on The Client, How Do I Choose What's Best?](https://www.youtube.com/watch?v=Y4OOFdwjimY)
+ 
 #### 2MIN Tech Tip
  - [Adding New Modules to Oracle JET Applications | Geertjan Weilenga](https://www.youtube.com/watch?v=A770TT3-ASo)
  - [Oracle JET: Working with Other People's Buggy Code | John Brock](https://www.youtube.com/watch?v=5aKwyyFQkUA)
@@ -72,11 +77,15 @@
  - [Source Structure of Oracle JET Applications | Geertjan Wielenga](https://www.youtube.com/watch?v=-XxRjUbn_54)
  - [It's Easy to Set Up a Front-End JavaScript Application with Oracle JET | Geertjan Wielenga](https://www.youtube.com/watch?v=lXCg0qBLH34)
  
- #### Virtual Meetup
+#### Virtual Meetup
  
 - [April 2019](https://www.youtube.com/watch?v=mvnfizJA6tc)
 - [August 2018](https://www.youtube.com/watch?v=VCNRosYEa_s)
  
+#### Customer
+
+- [https://www.youtube.com/watch?v=yJ_Tsi_rVPo](Capgemini's UK Customer Benefits With Oracle JET)
+
 ### Official Examples
 
 ### Tutorials
