@@ -55,6 +55,8 @@
 
 ### Podcasts
 
+ - [#363: JET-Propelled JavaScript](https://oracledevs.podbean.com/e/jet-propelled-javascript/)
+
 ### Youtube Channels
 
  - [Oracle JET](https://www.youtube.com/channel/UCcPYy1QhTNyR6fPAGLEsSTw/videos)
