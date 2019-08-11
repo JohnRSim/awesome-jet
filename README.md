@@ -51,6 +51,7 @@
 ### External Resources
 
 - [ESLint config](https://github.com/oracle/eslint-config-oraclejet)
+- [CLI](https://github.com/oracle/ojet-cli)
 - [Cordova Plugins](https://www.oracle.com/webfolder/technetwork/jet/globalSupport-Plugins.html)
 
 ### Community
@@ -100,6 +101,11 @@
 
 ### Official Examples
 
+- [Crafting Enhanced Customer
+Experience Through Digital
+Assistants, Beacons and Oracle JET
+](https://github.com/rohitdhamija/oracode2019)
+
 ### Tutorials
 
 - [Soar Higher with Oracle JET](https://www.oracle.com/goto/jet)
@@ -117,6 +123,12 @@
 
 ### Examples
 
+- [Oracle JET : JET Examples](https://github.com/DanielMerchan/ojet-examples) Version 7.0.1 of Oracle JET - by Daniel Merchan
+- [apex-jet-integration](https://github.com/alanarentsen/apex-jet-integration) information on how to integrate Oracle JET and APEX.
+- [pwa-jet-app](https://github.com/abaranovskis-redsamurai/pwa-jet-app) - by Andrejus Baranovskis
+- [pwa-jet-node](https://github.com/abaranovskis-redsamurai/pwa-jet-node) - by Andrejus Baranovskis
+- [Practical Oracle JET](https://github.com/Apress/practical-oracle-jet) - by Daniel Curtis
+- [docker-oracle-jet-run-live-reload](https://github.com/lucasjellema/docker-oracle-jet-run-live-reload) - defines a Docker container that takes a GitHub URL and builds and runs the Oracle JET application - by Lucas Jellama
 ### Books
 
 - [Oracle JET 7.1.0](https://docs.oracle.com/en/middleware/developer-tools/jet/7.1/books.html)
@@ -127,6 +139,7 @@
 - [Geertjan's Blog](https://blogs.oracle.com/geertjan/)
 - [John “JB” Brock (aka. peppertech)](https://medium.com/@peppertech)
 - [Fishbowl Solutions](https://www.fishbowlsolutions.com/blog/)
+- [Red Samurai](https://andrejusb.blogspot.com/)
 
 ### Blog Posts
 
@@ -134,6 +147,21 @@
 
  - [JET-Captcha](https://github.com/JohnRSim/jet-captcha) - Alternative Captcha solution that enables support for automated bot detection via gamified UI. By [@JRSim_UIX](https://twitter.com/JRSim_UIX).
  
+### Stores
+
+- [Redux](https://github.com/sumedh22/reduxJet)
+ 
+# Projects Using OracleJET
+
+### Apps/Websites
+
+- [SuperJet](https://github.com/rafaelpernil2/SuperJet) web application designed for a cartoonist to manage his/her Comics and Series
+- [Chatbot](https://github.com/mee-nam-lee/jet)
+- [jsdbconsole](https://github.com/paolobellardone/jsdbconsole) Oracle Database Simple Console implemented with Oracle JET
+- [Boston Wether App](https://github.com/abaranovskis-redsamurai/bostonweatherjetapp)
+- [Recipe App](https://github.com/KjetilHel/RecipeAppOracleJet)
+- [webshop-portal-soaring-through-the-cloud-native-sequel](https://github.com/lucasjellema/webshop-portal-soaring-through-the-cloud-native-sequel)
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
