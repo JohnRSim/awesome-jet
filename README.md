@@ -51,6 +51,7 @@
 ### External Resources
 
 - [ESLint config](https://github.com/oracle/eslint-config-oraclejet)
+- [Cordova Plugins](https://www.oracle.com/webfolder/technetwork/jet/globalSupport-Plugins.html)
 
 ### Community
 - [Official Forum](https://community.oracle.com/community/development_tools/oracle-jet)
