@@ -129,6 +129,15 @@ Assistants, Beacons and Oracle JET
 - [pwa-jet-node](https://github.com/abaranovskis-redsamurai/pwa-jet-node) - by Andrejus Baranovskis
 - [Practical Oracle JET](https://github.com/Apress/practical-oracle-jet) - by Daniel Curtis
 - [docker-oracle-jet-run-live-reload](https://github.com/lucasjellema/docker-oracle-jet-run-live-reload) - defines a Docker container that takes a GitHub URL and builds and runs the Oracle JET application - by Lucas Jellama
+- [Tooltip](https://github.com/jtorralbagithub/ojetTooltip)
+- [PeopleTools-JavaScript-Injection-Framework](https://github.com/SasankVemana/PeopleTools-JavaScript-Injection-Framework)
+- [ESlinting](https://github.com/sohamda/Linting-OracleJET)
+- [wikipedia](https://github.com/louwersj/oracleJet_wikipedia)
+- [Todo list](https://github.com/donraikes/TodoList)
+- [Anki Overdrive demo](https://github.com/oraclespainpresales/ankidash)
+- [JET messages](https://github.com/abaranovskis-redsamurai/jetmessages) Oracle JET notifications example
+
+
 ### Books
 
 - [Oracle JET 7.1.0](https://docs.oracle.com/en/middleware/developer-tools/jet/7.1/books.html)
