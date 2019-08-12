@@ -152,9 +152,12 @@ Assistants, Beacons and Oracle JET
 
 ### Blog Posts
 
+ - [Advanced Internationalization in Oracle JET](https://medium.com/@jtiago/advanced-internationalization-in-oracle-jet-1f41f923e2cd) - Powerful methodology to easily manage translations in Oracle JET
+
 ### UI Components
 
  - [JET-Captcha](https://github.com/JohnRSim/jet-captcha) - Alternative Captcha solution that enables support for automated bot detection via gamified UI. By [@JRSim_UIX](https://twitter.com/JRSim_UIX).
+ - [Rich Text Editor WYSIWYG](https://github.com/sohamda/JET-Web-Components/tree/master/rich-text-editor) - Based on Quill JS
  
 ### Stores
 
