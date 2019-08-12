@@ -154,6 +154,8 @@ Assistants, Beacons and Oracle JET
 
  - [Advanced Internationalization in Oracle JET](https://medium.com/@jtiago/advanced-internationalization-in-oracle-jet-1f41f923e2cd) - Powerful methodology to easily manage translations in Oracle JET
 
+# Components & Libraries
+
 ### UI Components
 
  - [JET-Captcha](https://github.com/JohnRSim/jet-captcha) - Alternative Captcha solution that enables support for automated bot detection via gamified UI. By [@JRSim_UIX](https://twitter.com/JRSim_UIX).
@@ -170,7 +172,7 @@ Assistants, Beacons and Oracle JET
 - [SuperJet](https://github.com/rafaelpernil2/SuperJet) web application designed for a cartoonist to manage his/her Comics and Series
 - [Chatbot](https://github.com/mee-nam-lee/jet)
 - [jsdbconsole](https://github.com/paolobellardone/jsdbconsole) Oracle Database Simple Console implemented with Oracle JET
-- [Boston Wether App](https://github.com/abaranovskis-redsamurai/bostonweatherjetapp)
+- [Boston Weather App](https://github.com/abaranovskis-redsamurai/bostonweatherjetapp)
 - [Recipe App](https://github.com/KjetilHel/RecipeAppOracleJet)
 - [webshop-portal-soaring-through-the-cloud-native-sequel](https://github.com/lucasjellema/webshop-portal-soaring-through-the-cloud-native-sequel)
 
