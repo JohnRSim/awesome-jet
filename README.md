@@ -167,6 +167,12 @@ Assistants, Beacons and Oracle JET
  
 # Projects Using OracleJET
 
+### Commercial Products
+
+- [Katana](https://katanaml.io/) - Business Automation, Machine Learning
+- [Webcenter Content Interface](https://www.virtual7.de) CMS responsive UI
+
+
 ### Apps/Websites
 
 - [SuperJet](https://github.com/rafaelpernil2/SuperJet) web application designed for a cartoonist to manage his/her Comics and Series
