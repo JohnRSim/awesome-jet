@@ -133,7 +133,6 @@ Assistants, Beacons and Oracle JET
 - [PeopleTools-JavaScript-Injection-Framework](https://github.com/SasankVemana/PeopleTools-JavaScript-Injection-Framework)
 - [ESlinting](https://github.com/sohamda/Linting-OracleJET)
 - [wikipedia](https://github.com/louwersj/oracleJet_wikipedia)
-- [Todo list](https://github.com/donraikes/TodoList)
 - [Anki Overdrive demo](https://github.com/oraclespainpresales/ankidash)
 - [JET messages](https://github.com/abaranovskis-redsamurai/jetmessages) Oracle JET notifications example
 
