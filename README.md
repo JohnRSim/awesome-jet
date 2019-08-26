@@ -74,6 +74,8 @@
  - [Angular, Vue, React, JET; JavaScript on The Client, How Do I Choose What's Best?](https://www.youtube.com/watch?v=Y4OOFdwjimY)
  
 #### 2MIN Tech Tip
+ - [official Oracle JET guide for creating a user interface with JavaScript and HTML](https://t.co/VpypIflMoS?amp=1)
+ - [how to extend an OracleJET application with a third party library](https://t.co/Rujb6HG7C3?amp=1)
  - [Adding New Modules to Oracle JET Applications | Geertjan Weilenga](https://www.youtube.com/watch?v=A770TT3-ASo)
  - [Oracle JET: Working with Other People's Buggy Code | John Brock](https://www.youtube.com/watch?v=5aKwyyFQkUA)
  - [Oracle JET: Offline Search for the Offline Persistence Toolkit](https://www.youtube.com/watch?v=TEmPMsCIs6s)
@@ -91,7 +93,8 @@
 - [Massive Open Online Course](https://www.youtube.com/watch?v=CdJ23oroPcw&list=PLKCk3OyNwIztCYiFvqx2UU8Sg8YfK3Om4) - 26 Mar 2018
 
 #### Virtual Meetup
- 
+
+- [5th September 2019 - signup](https://t.co/pf4dTyD1WE?amp=1)
 - [April 2019](https://www.youtube.com/watch?v=mvnfizJA6tc)
 - [October 2018](https://www.youtube.com/watch?v=VCNRosYEa_s)
  
