@@ -35,6 +35,7 @@
 
 # Get Started
  - [Oracle JET Homepage](https://oraclejet.org)
+ - [Learning Path](https://docs.oracle.com/en/middleware/developer-tools/jet/index.html)
  - [Twitter](https://twitter.com/OracleJET/)
  - [2 Min Tech Tips](https://bit.ly/jet-techtips)
  - [Virtual Meetup](https://bit.ly/signup-jet-meetup-3)
