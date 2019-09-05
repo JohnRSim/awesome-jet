@@ -9,6 +9,7 @@
 
 > A curated list of awesome things related to Oracle JET
 
+- [Get Started](#get-started)
 - [Resources](#resources)
   - [Official Resources](#official-resources)
   - [External Resources](#external-resources)
@@ -32,7 +33,11 @@
   - [UI Components](#ui-components)
 
 
-
+# Get Started
+ - [Oracle JET Homepage](https://oraclejet.org)
+ - [Twitter](https://twitter.com/OracleJET/)
+ - [2 Min Tech Tips](https://bit.ly/jet-techtips)
+ - [Virtual Meetup](https://bit.ly/signup-jet-meetup-3)
 
 # Resources
 
@@ -53,6 +58,7 @@
 - [ESLint config](https://github.com/oracle/eslint-config-oraclejet)
 - [CLI](https://github.com/oracle/ojet-cli)
 - [Cordova Plugins](https://www.oracle.com/webfolder/technetwork/jet/globalSupport-Plugins.html)
+- [VSCode extension](https://t.co/mE4sn67iq3?amp=1)
 
 ### Community
 - [Official Forum](https://community.oracle.com/community/development_tools/oracle-jet)
@@ -74,6 +80,8 @@
  - [Angular, Vue, React, JET; JavaScript on The Client, How Do I Choose What's Best?](https://www.youtube.com/watch?v=Y4OOFdwjimY)
  
 #### 2MIN Tech Tip
+ - [Rapid Creation of Reusable Components in Oracle JET | Geertjan Wielenga](https://www.youtube.com/watch?v=41s4BwBmTls)
+ - [Official Oracle JET Guide for Creating a Full Front-End Application | Geertjan Wielenga](https://www.youtube.com/watch?v=_yobD5-nwIY&feature=youtu.be)
  - [official Oracle JET guide for creating a user interface with JavaScript and HTML](https://t.co/VpypIflMoS?amp=1)
  - [how to extend an OracleJET application with a third party library](https://t.co/Rujb6HG7C3?amp=1)
  - [Adding New Modules to Oracle JET Applications | Geertjan Weilenga](https://www.youtube.com/watch?v=A770TT3-ASo)
