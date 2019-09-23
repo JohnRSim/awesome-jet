@@ -83,6 +83,9 @@
  - [Angular, Vue, React, JET; JavaScript on The Client, How Do I Choose What's Best?](https://www.youtube.com/watch?v=Y4OOFdwjimY)
 
 #### 2MIN Tech Tip
+ - [Getting Started with FlexBox in Oracle JET | Geertjan Wielenga](https://youtu.be/BxqqSlwMoEA)
+ - [Stripping and Restoring Oracle JET Applications | Geertjan Wielenga](https://youtu.be/vu8d0F2ixpo)
+ - [Build Hooks for Oracle JET Applications | Soham Dasgupta](https://youtu.be/BXNDQPZV6nw)
  - [Rapid Creation of Reusable Components in Oracle JET | Geertjan Wielenga](https://www.youtube.com/watch?v=41s4BwBmTls)
  - [Official Oracle JET Guide for Creating a Full Front-End Application | Geertjan Wielenga](https://www.youtube.com/watch?v=_yobD5-nwIY&feature=youtu.be)
  - [official Oracle JET guide for creating a user interface with JavaScript and HTML](https://t.co/VpypIflMoS?amp=1)
