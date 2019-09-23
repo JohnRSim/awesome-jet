@@ -105,7 +105,7 @@
 
 #### Virtual Meetup
 
-- [5th September 2019 - signup](https://t.co/pf4dTyD1WE?amp=1)
+- [September 2019](https://www.youtube.com/watch?v=bQ0z9PvUbjY)
 - [April 2019](https://www.youtube.com/watch?v=mvnfizJA6tc)
 - [October 2018](https://www.youtube.com/watch?v=VCNRosYEa_s)
 
