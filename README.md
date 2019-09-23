@@ -36,6 +36,7 @@
 # Get Started
  - [Oracle JET Homepage](https://oraclejet.org)
  - [Learning Path](https://docs.oracle.com/en/middleware/developer-tools/jet/index.html)
+ - [Slack](https://oracle-jet-slack-invite.herokuapp.com/)
  - [Twitter](https://twitter.com/OracleJET/)
  - [2 Min Tech Tips](https://bit.ly/jet-techtips)
  - [Virtual Meetup](https://bit.ly/signup-jet-meetup-3)
@@ -63,6 +64,7 @@
 
 ### Community
 - [Official Forum](https://community.oracle.com/community/development_tools/oracle-jet)
+- [Slack](https://oracle-jet-slack-invite.herokuapp.com/)
 
 ### Podcasts
 
@@ -73,13 +75,13 @@
  - [Oracle JET](https://www.youtube.com/channel/UCcPYy1QhTNyR6fPAGLEsSTw/videos)
  - [Oracle Developers](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g/videos)
  - [Oracle Learning Library](https://www.youtube.com/user/OracleLearning/videos)
- 
- 
+
+
 #### Intro
 
  - [Getting Started with Oracle JET](https://www.youtube.com/watch?v=976h4WsBbuE)
  - [Angular, Vue, React, JET; JavaScript on The Client, How Do I Choose What's Best?](https://www.youtube.com/watch?v=Y4OOFdwjimY)
- 
+
 #### 2MIN Tech Tip
  - [Rapid Creation of Reusable Components in Oracle JET | Geertjan Wielenga](https://www.youtube.com/watch?v=41s4BwBmTls)
  - [Official Oracle JET Guide for Creating a Full Front-End Application | Geertjan Wielenga](https://www.youtube.com/watch?v=_yobD5-nwIY&feature=youtu.be)
@@ -96,7 +98,7 @@
  - [The Load Order of Artifacts in an Oracle JET Application | Geertjan Wielenga](https://www.youtube.com/watch?v=cjejNksY3wE)
  - [Source Structure of Oracle JET Applications | Geertjan Wielenga](https://www.youtube.com/watch?v=-XxRjUbn_54)
  - [It's Easy to Set Up a Front-End JavaScript Application with Oracle JET | Geertjan Wielenga](https://www.youtube.com/watch?v=lXCg0qBLH34)
- 
+
 #### MOOC
 
 - [Massive Open Online Course](https://www.youtube.com/watch?v=CdJ23oroPcw&list=PLKCk3OyNwIztCYiFvqx2UU8Sg8YfK3Om4) - 26 Mar 2018
@@ -106,7 +108,7 @@
 - [5th September 2019 - signup](https://t.co/pf4dTyD1WE?amp=1)
 - [April 2019](https://www.youtube.com/watch?v=mvnfizJA6tc)
 - [October 2018](https://www.youtube.com/watch?v=VCNRosYEa_s)
- 
+
 #### Customer
 
 - [Capgemini's UK Customer Benefits With Oracle JET](https://www.youtube.com/watch?v=yJ_Tsi_rVPo)
@@ -171,11 +173,11 @@ Assistants, Beacons and Oracle JET
 
  - [JET-Captcha](https://github.com/JohnRSim/jet-captcha) - Alternative Captcha solution that enables support for automated bot detection via gamified UI. By [@JRSim_UIX](https://twitter.com/JRSim_UIX).
  - [Rich Text Editor WYSIWYG](https://github.com/sohamda/JET-Web-Components/tree/master/rich-text-editor) - Based on Quill JS
- 
+
 ### Stores
 
 - [Redux](https://github.com/sumedh22/reduxJet)
- 
+
 # Projects Using OracleJET
 
 ### Commercial Products
