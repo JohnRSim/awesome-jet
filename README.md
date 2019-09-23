@@ -169,6 +169,7 @@ Assistants, Beacons and Oracle JET
 ### Blog Posts
 
  - [Advanced Internationalization in Oracle JET](https://medium.com/@jtiago/advanced-internationalization-in-oracle-jet-1f41f923e2cd) - Powerful methodology to easily manage translations in Oracle JET
+ - [Oracle JET Meets AngularJS](https://t.co/ztmQyzaEWx?amp=1)
 
 # Components & Libraries
 
